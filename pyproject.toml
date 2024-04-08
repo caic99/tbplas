@@ -1,5 +1,5 @@
 [build-system]
-requires = ["scikit-build-core", "numpy", "cython"]
+requires = ["scikit-build-core", "numpy", "Cython"]
 build-backend = "scikit_build_core.build"
 
 # Metainfo and requirements
